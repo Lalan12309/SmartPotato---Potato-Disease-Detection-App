@@ -28,3 +28,4 @@ Deployment: Android & iOS compatible
 ##Screenshot Project
 
 ![image alt](https://github.com/Lalan12309/SmartPotato---Potato-Disease-Detection-App/blob/e3faab19a11976227875348cd9496fb912e719ca/215478159-2d153955-73de-429c-b982-c4b76cbb55d1.jpg)
+![image alt](https://github.com/Lalan12309/SmartPotato---Potato-Disease-Detection-App/blob/23837cd9aed48d6d88b5695062167f08bc6e5e13/215478170-793eb1ed-325c-48bf-aab5-8e0079d8dac6.jpg)
