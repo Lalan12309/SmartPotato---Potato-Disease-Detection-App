@@ -26,3 +26,5 @@ Cloud Integration: Google Cloud Platform (GCP)
 Deployment: Android & iOS compatible
 
 ##Screenshot Project
+
+![image alt](https://github.com/Lalan12309/SmartPotato---Potato-Disease-Detection-App/blob/e3faab19a11976227875348cd9496fb912e719ca/215478159-2d153955-73de-429c-b982-c4b76cbb55d1.jpg)
